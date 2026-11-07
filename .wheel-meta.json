@@ -1,0 +1,22 @@
+{
+  "wheel_id": 825,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-102",
+  "project": "pool-retaining-walls-brisbane-red-flags-2b278fbcc06833e58121c6f",
+  "parent_t1_ref": "poolretainingwallsbrisbane-150",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining walls brisbane red flags",
+  "intended_url": "http://pool-retaining-walls-brisbane-red-flags-2b278fbcc06833e58121c6f.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "f3ae581599bc3641",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/pool-retaining-walls-brisbane-87ff30cbf8cee219c33926fa131fc361e/",
+      "anchor": "Pool Retaining Walls Brisbane: A Practical Site Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
